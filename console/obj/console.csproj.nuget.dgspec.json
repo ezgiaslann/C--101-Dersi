@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\C#-101 Dersi\\console\\console.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\Csharp-101-Dersi\\console\\console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\C#-101 Dersi\\console\\console.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\Csharp-101-Dersi\\console\\console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\C#-101 Dersi\\console\\console.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Csharp-101-Dersi\\console\\console.csproj",
         "projectName": "console",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\C#-101 Dersi\\console\\console.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Csharp-101-Dersi\\console\\console.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\C#-101 Dersi\\console\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Csharp-101-Dersi\\console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
